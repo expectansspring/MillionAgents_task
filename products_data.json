@@ -1,0 +1,962 @@
+{
+    "product_1": {
+        "id": "91737",
+        "name": "Вода Легенда гор Архыз негазированная, 5л",
+        "link": "https://online.metro-cc.ru/products/gazirovannaya-legenda-gor-arhyz-5l",
+        "sale_price": "84.90 Р/шт",
+        "standard_price": "115 Р/шт",
+        "brand": "ЛЕГЕНДА ГОР АРХЫЗ"
+    },
+    "product_2": {
+        "id": "63855",
+        "name": "Вода Черноголовка природная негазированная, 5л",
+        "link": "https://online.metro-cc.ru/products/chernogolovskaya-bez-gaza-5l",
+        "sale_price": "89.90 Р/шт",
+        "standard_price": "105 Р/шт",
+        "brand": "ЧЕРНОГОЛОВКА"
+    },
+    "product_3": {
+        "id": "4183",
+        "name": "Вода Шишкин лес питьевая негазированная, 5л",
+        "link": "https://online.metro-cc.ru/products/shishkin-les-negazirovannaya-5l",
+        "sale_price": "",
+        "standard_price": "115 Р/шт",
+        "brand": "ШИШКИН ЛЕС"
+    },
+    "product_4": {
+        "id": "456829",
+        "name": "Вода Святой Источник негазированная, 330мл",
+        "link": "https://online.metro-cc.ru/products/svyatoj-istochnik-negazirovannaya-033-l-456829",
+        "sale_price": "",
+        "standard_price": "27.90 Р/шт",
+        "brand": "СВЯТОЙ ИСТОЧНИК"
+    },
+    "product_5": {
+        "id": "439746",
+        "name": "Вода Stelmas Mg минеральная лечебно-столовая газированная, 1л",
+        "link": "https://online.metro-cc.ru/products/mineralnaya-stemals-gazirovannaya-1-l",
+        "sale_price": "",
+        "standard_price": "85.90 Р/шт",
+        "brand": "STELMAS"
+    },
+    "product_6": {
+        "id": "653766",
+        "name": "Вода Baikal430 Байкальская глубинная вода негазированная, 450мл",
+        "link": "https://online.metro-cc.ru/products/baikal-430-bajkalskaya-glubinnaya-negazirovannaya-045-l-653766",
+        "sale_price": "",
+        "standard_price": "67.90 Р/шт",
+        "brand": "BAIKAL430"
+    },
+    "product_7": {
+        "id": "473978",
+        "name": "Вода Святой Источник негазированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/svyatoj-istochnik-negazirovannaya-05-l-473978",
+        "sale_price": "",
+        "standard_price": "37.49 Р/шт",
+        "brand": "СВЯТОЙ ИСТОЧНИК"
+    },
+    "product_8": {
+        "id": "91738",
+        "name": "Вода Псыж газированная, 1л",
+        "link": "https://online.metro-cc.ru/products/art-91738",
+        "sale_price": "44.90 Р/шт",
+        "standard_price": "56.90 Р/шт",
+        "brand": "ПСЫЖ"
+    },
+    "product_9": {
+        "id": "439726",
+        "name": "Вода Donat Mg минеральная природная лечебная газированная, 1л",
+        "link": "https://online.metro-cc.ru/products/donat-mg-lechebno-stolovaya-prirodnoj-gazacii-1l",
+        "sale_price": "",
+        "standard_price": "287 Р/шт",
+        "brand": "DONAT"
+    },
+    "product_10": {
+        "id": "573873",
+        "name": "Вода Tassay питьевая негазированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/tassay-negazirovannaya-pet-05-l",
+        "sale_price": "",
+        "standard_price": "51.90 Р/шт",
+        "brand": "TASSAY"
+    },
+    "product_11": {
+        "id": "461346",
+        "name": "Вода Рычал-Су минеральная газированная, 1л",
+        "link": "https://online.metro-cc.ru/products/rychal-su-1-l-461346",
+        "sale_price": "",
+        "standard_price": "88.90 Р/шт",
+        "brand": "РЫЧАЛ-СУ"
+    },
+    "product_12": {
+        "id": "6880",
+        "name": "Вода Borjomi природная минеральная газированная, 1.25л",
+        "link": "https://online.metro-cc.ru/products/mineralnaya-borzhomi-pet-125l",
+        "sale_price": "154.90 Р/шт",
+        "standard_price": "171 Р/шт",
+        "brand": "BORJOMI"
+    },
+    "product_13": {
+        "id": "595355",
+        "name": "Вода Черноголовка питьевая негазированная, 19л",
+        "link": "https://online.metro-cc.ru/products/chernogolovskaya-stolovaya-negazirovannaya-19l",
+        "sale_price": "",
+        "standard_price": "449 Р/шт",
+        "brand": "ЧЕРНОГОЛОВКА"
+    },
+    "product_14": {
+        "id": "473976",
+        "name": "Вода Святой Источник негазированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/svyatoj-istochnik-negazirovannaya-15l-473976",
+        "sale_price": "44.90 Р/шт",
+        "standard_price": "54.90 Р/шт",
+        "brand": "СВЯТОЙ ИСТОЧНИК"
+    },
+    "product_15": {
+        "id": "457128",
+        "name": "Вода Borjomi природная минеральная газированная стекло, 330мл",
+        "link": "https://online.metro-cc.ru/products/borjomi-gazirovannaya-steklo-033-l",
+        "sale_price": "",
+        "standard_price": "128 Р/шт",
+        "brand": "BORJOMI"
+    },
+    "product_16": {
+        "id": "107639",
+        "name": "Вода Baikal430 Байкальская глубинная вода негазированная, 850мл x 6 шт",
+        "link": "https://online.metro-cc.ru/products/baikal-430-bajkalskaya-glubinnaya-negazirovannaya-085-l",
+        "sale_price": "539.40 Р/шт",
+        "standard_price": "624 Р/шт",
+        "brand": "BAIKAL430"
+    },
+    "product_17": {
+        "id": "457133",
+        "name": "Вода Borjomi природная минеральная газированная стекло, 500мл",
+        "link": "https://online.metro-cc.ru/products/borjomi-gazirovannaya-steklo-05-l",
+        "sale_price": "104.90 Р/шт",
+        "standard_price": "143 Р/шт",
+        "brand": "BORJOMI"
+    },
+    "product_18": {
+        "id": "473977",
+        "name": "Вода Святой Источник газированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/svyatoj-istochnik-gazirovannaya-15l-473977",
+        "sale_price": "44.90 Р/шт",
+        "standard_price": "54.90 Р/шт",
+        "brand": "СВЯТОЙ ИСТОЧНИК"
+    },
+    "product_19": {
+        "id": "474024",
+        "name": "Вода Сенежская питьевая негазированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/senezhskaya-negazirovannaya-05-l",
+        "sale_price": "",
+        "standard_price": "28.49 Р/шт",
+        "brand": "СЕНЕЖСКАЯ"
+    },
+    "product_20": {
+        "id": "573870",
+        "name": "Вода Tassay питьевая негазированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/tassay-bez-gaza-15l",
+        "sale_price": "52.90 Р/шт",
+        "standard_price": "78.90 Р/шт",
+        "brand": "TASSAY"
+    },
+    "product_21": {
+        "id": "591747",
+        "name": "Вода детская Святой Источник Светлячок негазированная 0+, 5л",
+        "link": "https://online.metro-cc.ru/products/voda-dlya-detej-svyatoj-istochnik-svetlyachok-pet-5-l",
+        "sale_price": "",
+        "standard_price": "127 Р/шт",
+        "brand": "СВЯТОЙ ИСТОЧНИК"
+    },
+    "product_22": {
+        "id": "94103",
+        "name": "Вода Baikal430 Байкальская глубинная вода негазированная, 850мл",
+        "link": "https://online.metro-cc.ru/products/voda-baikal-430-bajkalskaya-glubinnaya-voda-negazirovannaya-085-l",
+        "sale_price": "89.90 Р/шт",
+        "standard_price": "105 Р/шт",
+        "brand": "BAIKAL430"
+    },
+    "product_23": {
+        "id": "614702",
+        "name": "aro Вода питьевая негазированная, 19л",
+        "link": "https://online.metro-cc.ru/products/aro-pet-19l",
+        "sale_price": "",
+        "standard_price": "399 Р/шт",
+        "brand": "ARO"
+    },
+    "product_24": {
+        "id": "118082",
+        "name": "Вода Шишкин лес питьевая негазированная, 18.9л",
+        "link": "https://online.metro-cc.ru/products/189l-shishkin-les-b-g",
+        "sale_price": "",
+        "standard_price": "539 Р/шт",
+        "brand": "ШИШКИН ЛЕС"
+    },
+    "product_25": {
+        "id": "456729",
+        "name": "Вода San Benedetto минеральная негазированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/sanbenedetto-stolovaya-pityevaya-negazirovannaya-15l",
+        "sale_price": "",
+        "standard_price": "261 Р/шт",
+        "brand": "SAN BENEDETTO"
+    },
+    "product_26": {
+        "id": "423013",
+        "name": "Вода Святой Источник негазированная, 5л",
+        "link": "https://online.metro-cc.ru/products/art-423013",
+        "sale_price": "102.90 Р/шт",
+        "standard_price": "135 Р/шт",
+        "brand": "СВЯТОЙ ИСТОЧНИК"
+    },
+    "product_27": {
+        "id": "75629",
+        "name": "Вода Aqua Minerale питьевая негазированная, 5л",
+        "link": "https://online.metro-cc.ru/products/aqua-minerale-stolovaya-negazirovannaya-5l-75629",
+        "sale_price": "149 Р/шт",
+        "standard_price": "157 Р/шт",
+        "brand": "AQUA MINERALE"
+    },
+    "product_28": {
+        "id": "461345",
+        "name": "Вода Рычал-Су минеральная газированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/rychal-su-05-l-461345",
+        "sale_price": "79.90 Р/шт",
+        "standard_price": "89.90 Р/шт",
+        "brand": "РЫЧАЛ-СУ"
+    },
+    "product_29": {
+        "id": "474022",
+        "name": "Вода питьевая Сенежская негазированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/senezhskaya-bez-gaza-15l",
+        "sale_price": "32.90 Р/шт",
+        "standard_price": "39.49 Р/шт",
+        "brand": "СЕНЕЖСКАЯ"
+    },
+    "product_30": {
+        "id": "624570",
+        "name": "Вода Borjomi природная минеральная газированная, 330мл",
+        "link": "https://online.metro-cc.ru/products/mineralnaya-borjomi-v-zheleznoj-banke-12-033-l",
+        "sale_price": "69.90 Р/шт",
+        "standard_price": "89.90 Р/шт",
+        "brand": "BORJOMI"
+    },
+    "product_31": {
+        "id": "117721",
+        "name": "Вода Baikal430 глубинная негазированная, 5л",
+        "link": "https://online.metro-cc.ru/products/5l-baikal430-glubinnaya-b-g-pet-117721",
+        "sale_price": "",
+        "standard_price": "439 Р/шт",
+        "brand": "BAIKAL430"
+    },
+    "product_32": {
+        "id": "200973",
+        "name": "Вода BonaAqua негазированная, 5л",
+        "link": "https://online.metro-cc.ru/products/5l-voda-bona-aqua-bg-pet-200973",
+        "sale_price": "",
+        "standard_price": "130 Р/шт",
+        "brand": "BONAAQUA"
+    },
+    "product_33": {
+        "id": "457137",
+        "name": "Вода Borjomi природная минеральная газированная, 750мл",
+        "link": "https://online.metro-cc.ru/products/borjomi-lechebno-stolovaya-gazirovannaya-6h075-l",
+        "sale_price": "",
+        "standard_price": "151 Р/шт",
+        "brand": "BORJOMI"
+    },
+    "product_34": {
+        "id": "480658",
+        "name": "Вода Шишкин лес питьевая негазированная, 400мл",
+        "link": "https://online.metro-cc.ru/products/negazirovannaya-shishkin-les-04-l-480658",
+        "sale_price": "",
+        "standard_price": "37.99 Р/шт",
+        "brand": "ШИШКИН ЛЕС"
+    },
+    "product_35": {
+        "id": "464846",
+        "name": "Вода Архыз Vita негазированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/arhyz-negazirovannaya-15l",
+        "sale_price": "",
+        "standard_price": "55.90 Р/шт",
+        "brand": "АРХЫЗ"
+    },
+    "product_36": {
+        "id": "437963",
+        "name": "Вода Evian негазированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/evian-stolovaya-pityevaya-negazirovannaya-15l-437963",
+        "sale_price": "",
+        "standard_price": "261 Р/шт",
+        "brand": "EVIAN"
+    },
+    "product_37": {
+        "id": "473582",
+        "name": "Вода Шишкин лес питьевая негазированная 1.75л",
+        "link": "https://online.metro-cc.ru/products/shishkin-les-negazirovannaya-175l-473582",
+        "sale_price": "",
+        "standard_price": "61.90 Р/шт",
+        "brand": "ШИШКИН ЛЕС"
+    },
+    "product_38": {
+        "id": "451326",
+        "name": "Вода Aqua Minerale питьевая газированная, 2л",
+        "link": "https://online.metro-cc.ru/products/aqua-minerale-gazirovannaya-2l",
+        "sale_price": "79.90 Р/шт",
+        "standard_price": "89.90 Р/шт",
+        "brand": "AQUA MINERALE"
+    },
+    "product_39": {
+        "id": "40828",
+        "name": "Вода Черноголовка негазированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/art-40828",
+        "sale_price": "",
+        "standard_price": "28.49 Р/шт",
+        "brand": "ЧЕРНОГОЛОВКА"
+    },
+    "product_40": {
+        "id": "568823",
+        "name": "RIOBA Вода негазированная, 330мл",
+        "link": "https://online.metro-cc.ru/products/rioba-negazirovannaya-033-l",
+        "sale_price": "",
+        "standard_price": "53.90 Р/шт",
+        "brand": "RIOBA"
+    },
+    "product_41": {
+        "id": "227350",
+        "name": "Вода Шишкин лес питьевая негазированная, 1л",
+        "link": "https://online.metro-cc.ru/products/art-227350",
+        "sale_price": "",
+        "standard_price": "50.90 Р/шт",
+        "brand": "ШИШКИН ЛЕС"
+    },
+    "product_42": {
+        "id": "329142",
+        "name": "Вода Калинов Родник негазированная, 9л",
+        "link": "https://online.metro-cc.ru/products/kalinov-rodnik-artezanskaya-negazirovannaya-9-l",
+        "sale_price": "",
+        "standard_price": "157 Р/шт",
+        "brand": "КАЛИНОВ РОДНИК"
+    },
+    "product_43": {
+        "id": "626293",
+        "name": "Вода Мтаби Нагутская-26 минеральная газированная, 1.25л",
+        "link": "https://online.metro-cc.ru/products/mtabi-nagutskaya-26-i-125l",
+        "sale_price": "69.90 Р/шт",
+        "standard_price": "81.90 Р/шт",
+        "brand": "МТАБИ"
+    },
+    "product_44": {
+        "id": "457131",
+        "name": "Вода Borjomi природная минеральная газированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/borjomi-lechebno-stolovaya-gazirovannaya-12h05-l",
+        "sale_price": "",
+        "standard_price": "109 Р/шт",
+        "brand": "BORJOMI"
+    },
+    "product_45": {
+        "id": "89093",
+        "name": "Вода Legend of Baikal питьевая негазированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/bez-gaza-legendy-bajkala-steklo-05-l-89093",
+        "sale_price": "",
+        "standard_price": "118 Р/шт",
+        "brand": "LEGEND OF BAIKAL"
+    },
+    "product_46": {
+        "id": "600439",
+        "name": "Вода Черноголовка негазированная, 2.5л",
+        "link": "https://online.metro-cc.ru/products/chernogolovka-stolovaya-negazirovannaya-25l",
+        "sale_price": "",
+        "standard_price": "63.90 Р/шт",
+        "brand": "ЧЕРНОГОЛОВКА"
+    },
+    "product_47": {
+        "id": "125700",
+        "name": "Вода Legend of Baikal негазированная, 750мл",
+        "link": "https://online.metro-cc.ru/products/075-l-legend-of-baikal-st-n-g-125700",
+        "sale_price": "119 Р/шт",
+        "standard_price": "136 Р/шт",
+        "brand": "LEGEND OF BAIKAL"
+    },
+    "product_48": {
+        "id": "474021",
+        "name": "Вода питьевая Сенежская газированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/senezhskaya-gazirovannaya-15l-474021",
+        "sale_price": "32.90 Р/шт",
+        "standard_price": "39.49 Р/шт",
+        "brand": "СЕНЕЖСКАЯ"
+    },
+    "product_49": {
+        "id": "464845",
+        "name": "Вода Архыз газированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/arhyz-gazirovannaya-15l-464845",
+        "sale_price": "",
+        "standard_price": "55.99 Р/шт",
+        "brand": "АРХЫЗ"
+    },
+    "product_50": {
+        "id": "597379",
+        "name": "Вода детская Святой Источник Светлячок негазированная 0+, 1.5л",
+        "link": "https://online.metro-cc.ru/products/svyatoj-istochnik-svetlyachok-bez-gaza-15l",
+        "sale_price": "",
+        "standard_price": "55.90 Р/шт",
+        "brand": "СВЯТОЙ ИСТОЧНИК"
+    },
+    "product_51": {
+        "id": "481376",
+        "name": "Вода Nestle Pure Life питьевая артезианская негазированная, 2л",
+        "link": "https://online.metro-cc.ru/products/nestle-negazirovannaya-pure-life-2l",
+        "sale_price": "",
+        "standard_price": "74.90 Р/шт",
+        "brand": "NESTL"
+    },
+    "product_52": {
+        "id": "445061",
+        "name": "Вода Evian негазированная, 330мл",
+        "link": "https://online.metro-cc.ru/products/evian-033-l",
+        "sale_price": "",
+        "standard_price": "142 Р/шт",
+        "brand": "EVIAN"
+    },
+    "product_53": {
+        "id": "116427",
+        "name": "Вода San Bernardo негазированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/15l-voda-san-bernardo-b-g-pet-116427",
+        "sale_price": "",
+        "standard_price": "257 Р/шт",
+        "brand": "SAN BERNARDO"
+    },
+    "product_54": {
+        "id": "573874",
+        "name": "Вода Tassay питьевая газированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/tassay-gazirovannaya-pet-05-l",
+        "sale_price": "",
+        "standard_price": "51.90 Р/шт",
+        "brand": "TASSAY"
+    },
+    "product_55": {
+        "id": "601630",
+        "name": "Вода Aqua Minerale питьевая газированная, 1л",
+        "link": "https://online.metro-cc.ru/products/mineralnaya-aqua-minerale-gazirovannaya-1l",
+        "sale_price": "59.90 Р/шт",
+        "standard_price": "62.90 Р/шт",
+        "brand": "AQUA MINERALE"
+    },
+    "product_56": {
+        "id": "481374",
+        "name": "Вода Nestle Pure Life артезианская негазированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/nestle-pure-life-negazirovannaya-05-l",
+        "sale_price": "32.90 Р/шт",
+        "standard_price": "41.90 Р/шт",
+        "brand": "NESTL"
+    },
+    "product_57": {
+        "id": "70725",
+        "name": "Вода Baikal Pearl негазированная, 1л",
+        "link": "https://online.metro-cc.ru/products/zhemchuzhina-bajkala-baikal-pearl-negazirovannaya-1l-70725",
+        "sale_price": "",
+        "standard_price": "118 Р/шт",
+        "brand": "BAIKAL PEARL"
+    },
+    "product_58": {
+        "id": "656512",
+        "name": "Вода Аштау газированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/ashtau-gazirovannaya-pet-15l",
+        "sale_price": "69.90 Р/шт",
+        "standard_price": "79.90 Р/шт",
+        "brand": "АШТАУ"
+    },
+    "product_59": {
+        "id": "113158",
+        "name": "Вода Мтаби минеральная лечебно-столовая газированная, 450мл",
+        "link": "https://online.metro-cc.ru/products/045-l-min-voda-mtabi-st-113158",
+        "sale_price": "59.90 Р/шт",
+        "standard_price": "68.90 Р/шт",
+        "brand": "МТАБИ"
+    },
+    "product_60": {
+        "id": "200971",
+        "name": "Вода BonaAqua газированная, 1л",
+        "link": "https://online.metro-cc.ru/products/1l-voda-bona-aqua-gaz-pet-200971",
+        "sale_price": "59.90 Р/шт",
+        "standard_price": "73.90 Р/шт",
+        "brand": "BONAAQUA"
+    },
+    "product_61": {
+        "id": "568824",
+        "name": "RIOBA Вода газированная, 330мл",
+        "link": "https://online.metro-cc.ru/products/art-568824",
+        "sale_price": "",
+        "standard_price": "53.90 Р/шт",
+        "brand": "RIOBA"
+    },
+    "product_62": {
+        "id": "868",
+        "name": "Вода детская Святой Источник Светлячок негазированная 0+, 330мл",
+        "link": "https://online.metro-cc.ru/products/svetlyachok-svyatoj-istochnik-033-l-pet",
+        "sale_price": "",
+        "standard_price": "36.49 Р/шт",
+        "brand": "СВЯТОЙ ИСТОЧНИК"
+    },
+    "product_63": {
+        "id": "31187",
+        "name": "Вода Aqua Minerale питьевая негазированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/art-31187",
+        "sale_price": "49.90 Р/шт",
+        "standard_price": "54.90 Р/шт",
+        "brand": "AQUA MINERALE"
+    },
+    "product_64": {
+        "id": "36622",
+        "name": "Вода Калинов Родник питьевая негазированная, 18.9л",
+        "link": "https://online.metro-cc.ru/products/kalinov-rodnik-189l",
+        "sale_price": "",
+        "standard_price": "439 Р/шт",
+        "brand": "КАЛИНОВ РОДНИК"
+    },
+    "product_65": {
+        "id": "14830",
+        "name": "Вода Набеглави минеральная лечебно-столовая природная газированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/mineralnaya-nabeglavi-v-steklyannoj-butylke-05-l",
+        "sale_price": "",
+        "standard_price": "93.90 Р/шт",
+        "brand": "НАБЕГЛАВИ"
+    },
+    "product_66": {
+        "id": "133366",
+        "name": "Вода Kobi минеральная газированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/voda-mineralnaya-kobi-500ml-133366",
+        "sale_price": "64.90 Р/шт",
+        "standard_price": "79.90 Р/шт",
+        "brand": "KOBI"
+    },
+    "product_67": {
+        "id": "267995",
+        "name": "Вода Новотерская питьевая негазированная, 5л",
+        "link": "https://online.metro-cc.ru/products/novoterskaya-pityevaya-negazirovannaya-5l",
+        "sale_price": "",
+        "standard_price": "142 Р/шт",
+        "brand": "НОВОТЕРСКАЯ"
+    },
+    "product_68": {
+        "id": "504546",
+        "name": "Вода Святой Источник Sport негазированная, 750мл",
+        "link": "https://online.metro-cc.ru/products/pityevaya-svyatoj-istochnik-sport-negazirovannaya-pet-075-l",
+        "sale_price": "",
+        "standard_price": "50.90 Р/шт",
+        "brand": "СВЯТОЙ ИСТОЧНИК"
+    },
+    "product_69": {
+        "id": "122060",
+        "name": "Вода детская Калинов Родничок негазированная, 330мл",
+        "link": "https://online.metro-cc.ru/products/033-l-kalinov-rodnichok-b-g-pet-122060",
+        "sale_price": "26.90 Р/шт",
+        "standard_price": "33.99 Р/шт",
+        "brand": "КАЛИНОВ РОДНИЧОК"
+    },
+    "product_70": {
+        "id": "451327",
+        "name": "Вода Aqua Minerale питьевая негазированная, 2л",
+        "link": "https://online.metro-cc.ru/products/art-451327",
+        "sale_price": "79.90 Р/шт",
+        "standard_price": "89.90 Р/шт",
+        "brand": "AQUA MINERALE"
+    },
+    "product_71": {
+        "id": "573871",
+        "name": "Вода Tassay питьевая газированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/tassay-prirodnaya-gazirovannaya-pet-15l",
+        "sale_price": "52.90 Р/шт",
+        "standard_price": "78.90 Р/шт",
+        "brand": "TASSAY"
+    },
+    "product_72": {
+        "id": "17663",
+        "name": "Вода Набеглави минеральная лечебно-столовая природная газированная, 1л",
+        "link": "https://online.metro-cc.ru/products/mineralnaya-nabeglavi-1-l-17663",
+        "sale_price": "",
+        "standard_price": "116 Р/шт",
+        "brand": "НАБЕГЛАВИ"
+    },
+    "product_73": {
+        "id": "533440",
+        "name": "Вода Калинов Родник питьевая негазированная, 6л",
+        "link": "https://online.metro-cc.ru/products/kalinov-rodnik-artezianskaya-negazirovannaya-6l",
+        "sale_price": "",
+        "standard_price": "99.90 Р/шт",
+        "brand": "КАЛИНОВ РОДНИК"
+    },
+    "product_74": {
+        "id": "200947",
+        "name": "Вода BonaAqua негазированная, 330мл",
+        "link": "https://online.metro-cc.ru/products/033l-voda-bona-aqua-bg-st",
+        "sale_price": "64.90 Р/шт",
+        "standard_price": "77.90 Р/шт",
+        "brand": "BONAAQUA"
+    },
+    "product_75": {
+        "id": "454308",
+        "name": "Вода Святой Источник негазированная, 1л",
+        "link": "https://online.metro-cc.ru/products/pityevaya-svyatoj-istochnik-negazirovannaya-1-l",
+        "sale_price": "",
+        "standard_price": "49.49 Р/шт",
+        "brand": "СВЯТОЙ ИСТОЧНИК"
+    },
+    "product_76": {
+        "id": "128185",
+        "name": "Вода Калинов Родник для кулера негазированная, 9л",
+        "link": "https://online.metro-cc.ru/products/kalinov-rodnik-9l",
+        "sale_price": "",
+        "standard_price": "167 Р/шт",
+        "brand": "КАЛИНОВ РОДНИК"
+    },
+    "product_77": {
+        "id": "200957",
+        "name": "Вода BonaAqua негазированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/05l-voda-bona-aqua-bg-pet-200957",
+        "sale_price": "42.90 Р/шт",
+        "standard_price": "58.90 Р/шт",
+        "brand": "BONAAQUA"
+    },
+    "product_78": {
+        "id": "618397",
+        "name": "Вода Mever природная минеральная негазированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/negazirovannaya-v-stekle-mever-05-l",
+        "sale_price": "60.90 Р/шт",
+        "standard_price": "70.99 Р/шт",
+        "brand": "MEVER"
+    },
+    "product_79": {
+        "id": "223603",
+        "name": "Вода San Benedetto негазированная, 330мл",
+        "link": "https://online.metro-cc.ru/products/033l-voda-san-benedetto-bg-pet-223603",
+        "sale_price": "79.90 Р/шт",
+        "standard_price": "109 Р/шт",
+        "brand": "SAN BENEDETTO"
+    },
+    "product_80": {
+        "id": "615319",
+        "name": "RIOBA Вода газированная, 750мл",
+        "link": "https://online.metro-cc.ru/products/rioba-gazirovannaya-075-l",
+        "sale_price": "",
+        "standard_price": "78.90 Р/шт",
+        "brand": "RIOBA"
+    },
+    "product_81": {
+        "id": "482548",
+        "name": "Вода детская Святой Источник Спортик негазированная, 330мл",
+        "link": "https://online.metro-cc.ru/products/svyatoj-istochnik-sportik-033-l-482548",
+        "sale_price": "28.90 Р/шт",
+        "standard_price": "36.91 Р/шт",
+        "brand": "СВЯТОЙ ИСТОЧНИК"
+    },
+    "product_82": {
+        "id": "87367",
+        "name": "aro Вода питьевая негазированная, 5л",
+        "link": "https://online.metro-cc.ru/products/aro-negazirovannaya-5l",
+        "sale_price": "",
+        "standard_price": "60.90 Р/шт",
+        "brand": "ARO"
+    },
+    "product_83": {
+        "id": "511775",
+        "name": "Вода Sairme минеральная лечебно-столовая газированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/sairme-gazirovannaya-05-l",
+        "sale_price": "",
+        "standard_price": "122 Р/шт",
+        "brand": "SAIRME"
+    },
+    "product_84": {
+        "id": "119101",
+        "name": "Вода детская Черноголовка Baby негазированная, 330мл",
+        "link": "https://online.metro-cc.ru/products/chernogolovka-baby-pet-033-l-119101",
+        "sale_price": "",
+        "standard_price": "29.99 Р/шт",
+        "brand": "ЧЕРНОГОЛОВКА"
+    },
+    "product_85": {
+        "id": "208641",
+        "name": "Вода Edis газированная, 950мл",
+        "link": "https://online.metro-cc.ru/products/095l-voda-edis-gaz-st-208641",
+        "sale_price": "",
+        "standard_price": "219 Р/шт",
+        "brand": "EDIS"
+    },
+    "product_86": {
+        "id": "456579",
+        "name": "Вода San Benedetto минеральная газированная, 750мл",
+        "link": "https://online.metro-cc.ru/products/sanbenedetto-stolovaya-pityevaya-gazirovannaya-075-l",
+        "sale_price": "",
+        "standard_price": "349 Р/шт",
+        "brand": "SAN BENEDETTO"
+    },
+    "product_87": {
+        "id": "92191",
+        "name": "Вода Липецкая минеральная столовая газированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/mineralnaya-lipeckaya-rosinka-gazirovannaya-15l",
+        "sale_price": "37.90 Р/шт",
+        "standard_price": "42.49 Р/шт",
+        "brand": "ЛИПЕЦКАЯ"
+    },
+    "product_88": {
+        "id": "215218",
+        "name": "Вода Baikal Pearl негазированная, 250мл",
+        "link": "https://online.metro-cc.ru/products/025l-voda-zhemchuzhina-baykala-bg-st-215218",
+        "sale_price": "79.90 Р/шт",
+        "standard_price": "106 Р/шт",
+        "brand": "BAIKAL PEARL"
+    },
+    "product_89": {
+        "id": "244013",
+        "name": "Вода минеральная Sanpellegrino газированная, 750мл",
+        "link": "https://online.metro-cc.ru/products/075l-voda-min-sanpellegrino-gaz-st-244013",
+        "sale_price": "",
+        "standard_price": "289 Р/шт",
+        "brand": "SANPELLEGRINO"
+    },
+    "product_90": {
+        "id": "457299",
+        "name": "Вода Святой Источник газированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/svyatoj-istochnik-gazirovannaya-05-l-457299",
+        "sale_price": "",
+        "standard_price": "37.49 Р/шт",
+        "brand": "СВЯТОЙ ИСТОЧНИК"
+    },
+    "product_91": {
+        "id": "456728",
+        "name": "Вода San Benedetto минеральная газированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/sanbenedetto-stolovaya-pityevaya-gazirovannaya-15l",
+        "sale_price": "",
+        "standard_price": "261 Р/шт",
+        "brand": "SAN BENEDETTO"
+    },
+    "product_92": {
+        "id": "473979",
+        "name": "Вода Эдельвейс минеральная газированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/edelvejs-gazirovannaya-15l-473979",
+        "sale_price": "",
+        "standard_price": "53.90 Р/шт",
+        "brand": "ЭДЕЛЬВЕЙС"
+    },
+    "product_93": {
+        "id": "125533",
+        "name": "Вода Legend of Baikal питьевая газированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/gazirovannaya-legend-of-baikal-steklo-05-l-125533",
+        "sale_price": "",
+        "standard_price": "118 Р/шт",
+        "brand": "LEGEND OF BAIKAL"
+    },
+    "product_94": {
+        "id": "615165",
+        "name": "Вода Tassay питьевая негазированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/tassay-negazirovannaya-st-b-05-l",
+        "sale_price": "",
+        "standard_price": "102 Р/шт",
+        "brand": "TASSAY"
+    },
+    "product_95": {
+        "id": "45086",
+        "name": "Вода Mever природная минеральная негазированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/mever-bez-gaza-15l",
+        "sale_price": "46.90 Р/шт",
+        "standard_price": "73.90 Р/шт",
+        "brand": "MEVER"
+    },
+    "product_96": {
+        "id": "473983",
+        "name": "Вода Биовита минеральная природная негазированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/pityevaya-biovita-15l",
+        "sale_price": "",
+        "standard_price": "69.90 Р/шт",
+        "brand": "БИОВИТА"
+    },
+    "product_97": {
+        "id": "4062",
+        "name": "Вода питьевая Сенежская негазированная, 5л",
+        "link": "https://online.metro-cc.ru/products/senezhskaya-mineralnaya-negazirovannaya-5l",
+        "sale_price": "",
+        "standard_price": "103 Р/шт",
+        "brand": "СЕНЕЖСКАЯ"
+    },
+    "product_98": {
+        "id": "91729",
+        "name": "Вода Легенда гор Архыз газированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/gazirovannaya-legenda-gor-arhyz-15l",
+        "sale_price": "46.90 Р/шт",
+        "standard_price": "56.90 Р/шт",
+        "brand": "ЛЕГЕНДА ГОР АРХЫЗ"
+    },
+    "product_99": {
+        "id": "200959",
+        "name": "Вода BonaAqua газированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/05l-voda-bona-aqua-gaz-pet-200959",
+        "sale_price": "42.90 Р/шт",
+        "standard_price": "58.90 Р/шт",
+        "brand": "BONAAQUA"
+    },
+    "product_100": {
+        "id": "242399",
+        "name": "Вода минеральная Perrier газированная, 1л",
+        "link": "https://online.metro-cc.ru/products/voda-mineralnaya-perrier-gazirovannaya-1l",
+        "sale_price": "",
+        "standard_price": "269 Р/шт",
+        "brand": "PERRIER"
+    },
+    "product_101": {
+        "id": "513646",
+        "name": "Вода Stelmas O2 негазированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/stelmas-o2-negazirovannaya-15l",
+        "sale_price": "39.90 Р/шт",
+        "standard_price": "54.90 Р/шт",
+        "brand": "STELMAS"
+    },
+    "product_102": {
+        "id": "202834",
+        "name": "Вода Mivela Mg++ минеральная лечебно-столовая газированная, 1л",
+        "link": "https://online.metro-cc.ru/products/1l-min-voda-mivela-lechebno-stolovaya-gaz-202834",
+        "sale_price": "",
+        "standard_price": "186 Р/шт",
+        "brand": "MIVELA MG++"
+    },
+    "product_103": {
+        "id": "549455",
+        "name": "Вода Baikal Reserve минеральная лечебно-столовая природная газированная, 530мл",
+        "link": "https://online.metro-cc.ru/products/bajkal-rezerv-mineralnaya-gazirovannaya-053-l-549455",
+        "sale_price": "",
+        "standard_price": "144 Р/шт",
+        "brand": "BAIKAL RESERVE"
+    },
+    "product_104": {
+        "id": "566304",
+        "name": "Вода Черноголовка газированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/art-566304",
+        "sale_price": "",
+        "standard_price": "43.49 Р/шт",
+        "brand": "ЧЕРНОГОЛОВКА"
+    },
+    "product_105": {
+        "id": "84869",
+        "name": "Вода Липецкая Росинка Лайт со вкусом лимона и лайма газированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/voda-gazirovannaya-limon-lajm-v-pet-lipeckaya-rosinka-15l-84869",
+        "sale_price": "54.90 Р/шт",
+        "standard_price": "59.90 Р/шт",
+        "brand": "ЛИПЕЦКАЯ РОСИНКА"
+    },
+    "product_106": {
+        "id": "45088",
+        "name": "Вода Mever природная минеральная негазированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/mever-bez-gaza-05-l",
+        "sale_price": "",
+        "standard_price": "41.90 Р/шт",
+        "brand": "MEVER"
+    },
+    "product_107": {
+        "id": "615318",
+        "name": "RIOBA Вода негазированная, 750мл",
+        "link": "https://online.metro-cc.ru/products/rioba-negazirovannaya-075-l",
+        "sale_price": "",
+        "standard_price": "78.90 Р/шт",
+        "brand": "RIOBA"
+    },
+    "product_108": {
+        "id": "91730",
+        "name": "Вода Легенда гор Архыз негазированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/bez-gaza-legenda-gor-arhyz-15l",
+        "sale_price": "46.90 Р/шт",
+        "standard_price": "56.90 Р/шт",
+        "brand": "ЛЕГЕНДА ГОР АРХЫЗ"
+    },
+    "product_109": {
+        "id": "216455",
+        "name": "Вода минеральные San Pellegrino газированная, 1л",
+        "link": "https://online.metro-cc.ru/products/1l-min-voda-san-pellegrino-gaz-pet-216455",
+        "sale_price": "",
+        "standard_price": "273 Р/шт",
+        "brand": "SAN PELLEGRINO"
+    },
+    "product_110": {
+        "id": "221433",
+        "name": "Вода Fahrenheit негазированная, 1л",
+        "link": "https://online.metro-cc.ru/products/1l-voda-fahrenheit-bg-pet-221433",
+        "sale_price": "79.90 Р/шт",
+        "standard_price": "118 Р/шт",
+        "brand": "FAHRENHEIT"
+    },
+    "product_111": {
+        "id": "511781",
+        "name": "Вода Sairme родниковая негазированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/sairme-rodnikovaya-negazirovannaya-05-l",
+        "sale_price": "",
+        "standard_price": "122 Р/шт",
+        "brand": "SAIRME"
+    },
+    "product_112": {
+        "id": "474023",
+        "name": "Вода Сенежская питьевая газированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/senezhskaya-gazirovannaya-05-l",
+        "sale_price": "",
+        "standard_price": "28.49 Р/шт",
+        "brand": "СЕНЕЖСКАЯ"
+    },
+    "product_113": {
+        "id": "412898",
+        "name": "Вода питьевая Шишкин лес Спорт негазированная, 1л",
+        "link": "https://online.metro-cc.ru/products/shishkin-les-sport-1l",
+        "sale_price": "44.90 Р/шт",
+        "standard_price": "63.90 Р/шт",
+        "brand": "ШИШКИН ЛЕС"
+    },
+    "product_114": {
+        "id": "601633",
+        "name": "Вода Aqua Minerale питьевая негазированная, 1л",
+        "link": "https://online.metro-cc.ru/products/bez-gaza-aqua-1-l",
+        "sale_price": "59.99 Р/шт",
+        "standard_price": "62.90 Р/шт",
+        "brand": "AQUA MINERALE"
+    },
+    "product_115": {
+        "id": "116425",
+        "name": "Вода San Bernardo газированная, 1.5л",
+        "link": "https://online.metro-cc.ru/products/15l-voda-san-bernardo-gaz-pet-116425",
+        "sale_price": "",
+        "standard_price": "257 Р/шт",
+        "brand": "SAN BERNARDO"
+    },
+    "product_116": {
+        "id": "535019",
+        "name": "Вода Калинов Родник негазированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/negazirovannaya-kalinov-rodnik-gidrokarbonatnaya-magnievo-kalcievaya-05-l",
+        "sale_price": "22.90 Р/шт",
+        "standard_price": "28.49 Р/шт",
+        "brand": "КАЛИНОВ РОДНИК"
+    },
+    "product_117": {
+        "id": "31188",
+        "name": "Вода Aqua Minerale питьевая газированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/art-31188",
+        "sale_price": "49.90 Р/шт",
+        "standard_price": "54.90 Р/шт",
+        "brand": "AQUA MINERALE"
+    },
+    "product_118": {
+        "id": "111721",
+        "name": "Напиток Borjomi Flavored с экстрактами цитрусов и корня имбиря газированный, 330мл",
+        "link": "https://online.metro-cc.ru/products/napitok-borjomi-flavored-water-citrusovyj-miks-imbir-bez-sahara-330-ml-111721",
+        "sale_price": "64.90 Р/шт",
+        "standard_price": "95.90 Р/шт",
+        "brand": "BORJOMI"
+    },
+    "product_119": {
+        "id": "222923",
+        "name": "Вода Липецкая негазированная, 5л",
+        "link": "https://online.metro-cc.ru/products/5l-lipeckaya",
+        "sale_price": "",
+        "standard_price": "94 Р/шт",
+        "brand": "ЛИПЕЦКАЯ"
+    },
+    "product_120": {
+        "id": "234653",
+        "name": "Вода минеральная Kobi газированная, 500мл",
+        "link": "https://online.metro-cc.ru/products/voda-mineralnaya-kobi-gazirovannaya-500ml-234653",
+        "sale_price": "80.90 Р/шт",
+        "standard_price": "103 Р/шт",
+        "brand": "KOBI"
+    }
+}
